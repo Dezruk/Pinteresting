@@ -1,5 +1,7 @@
 # Rails Project
 
-This is the sample application for [My Self]
+I am following OneMonthRails tutorials and creating a basic Rails Project
 
-by [David Avesyan]
+After this, I hope I will be able to make other uses with Ruby on Rails
+
+Created by [Dezruk]
